@@ -1,0 +1,9 @@
+{
+	"name": "bhavikakriplani2002ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ceb52e5-e78e-4bd6-8aed-a022601ba458",
+		"tenantId": "e2170b9d-2dd8-4104-aba0-8a11714ca933"
+	}
+}
